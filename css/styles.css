@@ -653,7 +653,9 @@ h2 b {
 }
 
 .characteristics_section .reviews p{
-	color: white;
+	color: black;
+	font-weight: bold;
+	font-size: 19px;
 }
 
 .characteristics_section .owl-prev, 
